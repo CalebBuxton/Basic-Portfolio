@@ -135,7 +135,7 @@ header {
 }
 
 .footer {
-	position: absolute;
+	position: fixed;
 	padding: 1rem;
 	right: 0
 	left: 0;
